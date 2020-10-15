@@ -33,7 +33,7 @@ body{
 .logo{
     height: 75px;
     width:300px;
-    background-image: url(Skjermbilde%202020-10-14%20kl.%2019.00.51.png);
+    background-image: url("Skjermbilde%202020-10-14%20kl.%2019.00.51.png");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 70px; 
@@ -94,7 +94,7 @@ li a {
 .donation{
     height: 500px;
     width: 100%;
-    background-image:url(jude-infantini-4tLNF0mZTVk-unsplash.jpg);
+    background-image:url("jude-infantini-4tLNF0mZTVk-unsplash.jpg");
     background-size: 90%;
     background-position: center;
     background-repeat: no-repeat;
